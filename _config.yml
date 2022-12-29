@@ -34,7 +34,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  natvalenz
 
 # Build settings
-theme: architect
+theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
 
