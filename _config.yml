@@ -34,10 +34,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  natvalenz
 
 # Build settings
-remote_theme: pages-themes/architect@v0.2.0
+theme: architect
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
